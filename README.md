@@ -1,13 +1,11 @@
 # Movie Review Sentiment Analysis
 
-Explanation Video: https://drive.google.com/drive/folders/1_0StjWFggDEYVcgbFUG5H7LCwGA3NNkN?usp=sharing
 
 ## 📋 Project Overview
 This project implements a comprehensive machine learning pipeline to predict sentiment scores (0-2) for movie reviews using natural language processing and ensemble learning techniques.
 
 **Dataset**: 7,000 movie review phrases with sentiment labels  
-**Task**: Multi-class classification (3 sentiment classes: Negative, Neutral, Positive)  
-**Platform**: Kaggle Competition  
+**Task**: Multi-class classification (3 sentiment classes: Negative, Neutral, Positive)   
 **Best Model Accuracy**: 98.76% (LinearSVC_C0.7)  
 **Ensemble Accuracy**: 91.05% on validation set
 
